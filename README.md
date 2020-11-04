@@ -1,0 +1,2 @@
+# 論文Alternative_algorithms_for_deep_SVDD
+延伸Deep One-Class Classification論文，使之應用於有異常訓練資料下的異常檢測
